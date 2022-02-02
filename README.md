@@ -1,1 +1,1 @@
-# my-first-gatsby-site
+# my-first-gatsy-site
